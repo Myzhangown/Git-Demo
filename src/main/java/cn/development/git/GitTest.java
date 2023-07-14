@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello Git change");
         System.out.println("hello Git change three");
         System.out.println("idea 合并 hot fix");
+        System.out.println("冲突合并 - master分支");
     }
 }
